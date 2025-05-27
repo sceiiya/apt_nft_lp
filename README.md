@@ -17,5 +17,6 @@ ___
  - [ ] Protected whitelisting, only the deployer can add wadresses to whitelist
  - [ ] Limited mninting for whitelisted users
  - [ ] Display images or details from the metadata of the token
+ - [ ] Put a value to a token/ cost of minting
 
 ## [See and interact with DApp](https://sceii-aptos-nft.vercel.app)
